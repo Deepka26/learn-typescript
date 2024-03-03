@@ -9,8 +9,8 @@
 
 // Number Type:
 
-// Number type represent numeric values , including integers anf floating-point numbers .
-// Number type in typescript supports arithmetic operations such as AddEventListenerOptions, subtraction, multiplication and division. The result of these operations on number type is also a number.
+// Number type represent numeric values , including integers and floating-point numbers .
+// Number type in typescript supports arithmetic operations such as Addition, subtraction, multiplication and division. The result of these operations on number type is also a number.
 
 // Boolean type:
 // In typescript, boolean type represent a value that can be either true or false. It is one of the basic primitive types in language.
@@ -18,7 +18,7 @@
 // BigInt type:
 // It is a built-in type that allows you to work with numbers that are larger than the range supported by the number type.
 // BigInt literals are written by appending the n suffix to integer literal.
-// In JS, we can not read the whole number beyoun 2 raise to power 53.
+// In JS, we can not read the whole number beyond 2 raise to power 53.
 // const max=Number.MAX_SAFE_INTEGER;
 // You can intialize bigint by BigInt constructor also.
 
